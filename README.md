@@ -1,5 +1,7 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-
+## Name: FRANKLIN RAJ G
+## Reg : 212223230058
+## Date : 07:05:22025
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
@@ -18,7 +20,18 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+ ![alt text](<Screenshot 2025-05-07 154355.png>)
+ ![alt text](<Screenshot 2025-05-07 154403.png>)
+ ![alt text](<Screenshot 2025-05-07 154412.png>)
+ ![alt text](<Screenshot 2025-05-07 154418.png>)
+![alt text](<Screenshot 2025-05-07 154431.png>)![alt text](<Screenshot 2025-05-07 154438.png>)
+![alt text](<Screenshot 2025-05-07 154446.png>)![alt text](<Screenshot 2025-05-07 154453.png>)
+![alt text](<Screenshot 2025-05-07 154459.png>)
+
+![alt text](<Screenshot 2025-05-07 154506.png>)![alt text](<Screenshot 2025-05-07 154519.png>)
+![alt text](<Screenshot 2025-05-07 154525.png>)![alt text](<Screenshot 2025-05-07 154532.png>)
+![alt text](<Screenshot 2025-05-07 154537.png>)
+![alt text](<Screenshot 2025-05-07 154544.png>)![S](<Screenshot 2025-05-07 154551.png>)
 
 # Result:
- Include your result here
+ Thus, the Data Visualization using matplot python library for the given datas executed successfully.
